@@ -1,4 +1,8 @@
 ﻿# Color Grid
+
+![Color Grid in game](https://github.com/Vanessi-K/ColorGrid/assets/47862956/a2e93070-a88c-4ee2-a951-6bd1ce5c22d9)
+
+
 Introducing **Color Grid**, an exhilarating local multiplayer game where players engage in a fierce 
 competition to color the highest number of fields in their chosen color within a time 
 limit of 3 minutes. However, there's a twist! An unpredictable UFO joins the gameplay, resetting 
